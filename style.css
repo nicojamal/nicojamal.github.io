@@ -1,0 +1,20 @@
+/* CSS */
+body {
+    background-color: white;
+    color: green;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
+#head {
+      border: solid 1px black;
+      background-color: white;
+      width: 600px;
+      height: 100px;
+      box-shadow: 2px 2px 2px white;
+      border-top-left-radius: 10px 10px;
+      border-top-right-radius: 10px 10px;
+      padding: 2px;
+      margin: auto;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-image: url(/web/20211213030108im_/https://jamal-website.glitch.me/wiki.html);
+   }
